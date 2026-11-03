@@ -1,0 +1,6 @@
+{
+  "name": "NexusAgent",
+  "description": "Autonomous Agentic LLM Platform on Android with embedded TypeScript execution, multi-provider model switching, Obsidian wiki rules, and Git-versioned self-improvement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

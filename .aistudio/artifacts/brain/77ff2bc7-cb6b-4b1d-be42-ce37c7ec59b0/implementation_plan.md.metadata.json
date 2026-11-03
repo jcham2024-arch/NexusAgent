@@ -1,0 +1,6 @@
+{
+  "summary":  "Revised implementation plan specifying the exact Android internal storage path (/storage/emulated/0/Download/ and ~/storage/downloads/) for copying from Termux, while emphasizing that all 17 tools and architectures are already pre-seeded into the Android app.",
+  "updatedAt":  "2026-10-23T15:52:27.172104516Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
